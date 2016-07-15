@@ -1,13 +1,14 @@
-.dropdown{
-	position:relative;
-	text-align: center;
-}
-h1{
-	text-align: center;
-}
 img{
 	width: 200px;
 	height: 200px;
 	display: inline-block;
 	border-image: 5px;
+}
+section{
+	margin-top: 200px;
+}
+#panel{
+	padding: 50px;
+    display: none;
+    width:100%;
 }
